@@ -17,7 +17,7 @@
                                         "invert_powerline": false,
                                         "foreground": "#fafafa",
                                         "background": "#2f2f2f",
-                                        "leading_diamond": "\uE0BA",
+                                        "leading_diamond": "\uE0B2",
                                         "trailing_diamond": "",
                                         "properties": {
                                                 "postfix": "",
@@ -141,7 +141,7 @@
                                         "foreground": "#fafafa",
                                         "background": "#2f2f2f",
                                         "leading_diamond": "",
-                                        "trailing_diamond": "\uE0BC",
+                                        "trailing_diamond": "\uE0B4",
                                         "properties": {
                                                 "postfix": "\u003c#007ACC\u003e \uF64F \u003c/\u003e",
                                                 "time_format": "15:04:05"
@@ -163,7 +163,7 @@
                                         "invert_powerline": false,
                                         "foreground": "#ffffff",
                                         "background": "#2f2f2f",
-                                        "leading_diamond": "\uE0BA",
+                                        "leading_diamond": "\uE0B6",
                                         "trailing_diamond": "",
                                         "properties": {
                                                 "alpine": "\uF300",
@@ -237,7 +237,7 @@
                                         "foreground": "#fafafa",
                                         "background": "#2f2f2f",
                                         "leading_diamond": "",
-                                        "trailing_diamond": "\uE0BC",
+                                        "trailing_diamond": "\uE0B0",
                                         "properties": {
                                                 "postfix": "",
                                                 "prefix": "",
